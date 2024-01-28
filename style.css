@@ -1,11 +1,11 @@
 body {
     margin: 0; 
     background-color: rgb(67, 153, 124);
-    font: Ariel;
+    font: Arial;
 }
 
 header {
-    background-color: rgb(45, 192, 192);
+    background-color: rgb(61, 58, 168);
     padding: 11px;
     text-align: center;
     font-size: 20px;
@@ -42,7 +42,7 @@ footer {
     bottom: 0;
     width: 100%;
     text-align: right;
-    background-color: rgb(65, 201, 133);
+    background-color: rgb(61, 58, 168);
 }
 
 h2 {
